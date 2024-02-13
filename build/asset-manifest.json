@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae7ad3bf.css",
+    "main.js": "/static/js/main.72e725f4.js",
+    "static/js/787.990de438.chunk.js": "/static/js/787.990de438.chunk.js",
+    "static/media/headBg.svg": "/static/media/headBg.134bff48a6167f49c3a1971e955090ab.svg",
+    "static/media/servicePlaceholder.svg": "/static/media/servicePlaceholder.407d88443a511b07259cca8ed4feb97c.svg",
+    "static/media/servicePlaceholder2.svg": "/static/media/servicePlaceholder2.bd40005c57ee3521bbdc0de194b2234a.svg",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.3a0917345468c959207a.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/logo.svg": "/static/media/logo.99150299515f3c9d54a145f492136349.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/leftSliderArrow.svg": "/static/media/leftSliderArrow.bbbcb3126bbc09ba3cceffc4ca83c65a.svg",
+    "static/media/rightSliderArrow.svg": "/static/media/rightSliderArrow.da7040446d977749bf98df9b6cd0384d.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/mail.svg": "/static/media/mail.9a2b40849e49b4aeab5fafc1bce510d9.svg",
+    "static/media/phone.svg": "/static/media/phone.94971d06cd3d019fc4de34f6b02f7bd9.svg",
+    "static/media/error.svg": "/static/media/error.03fe0324681848bc6ddf6601eda32d3d.svg",
+    "static/media/success.svg": "/static/media/success.6d0acc47efb2b7fe1f1fccb7e10f483f.svg",
+    "index.html": "/index.html",
+    "static/media/close-icon.svg": "/static/media/close-icon.8112725fc9a3155196049544d8518263.svg",
+    "static/media/leftHalfCircle.svg": "/static/media/leftHalfCircle.1a2b6cb0b711c2f9ae635656062e21c7.svg",
+    "static/media/rightHalfCircle.svg": "/static/media/rightHalfCircle.8d092274f681f13433833a65fdf400be.svg",
+    "main.ae7ad3bf.css.map": "/static/css/main.ae7ad3bf.css.map",
+    "main.72e725f4.js.map": "/static/js/main.72e725f4.js.map",
+    "787.990de438.chunk.js.map": "/static/js/787.990de438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7ad3bf.css",
+    "static/js/main.72e725f4.js"
+  ]
+}
